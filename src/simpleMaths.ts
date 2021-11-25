@@ -6,8 +6,8 @@ export function calcAreaTriangle(width: number, height: number): number {
     return width * height / 2;
 }
 
-export function addNumbers(num1: number, num2: number): number {
-    return num1 + num2;
+export function calcAreaRectangle(num1: number, num2: number): number {
+    return num1 * num2;
     
 }
 
